@@ -131,7 +131,6 @@ const Home = ({ navigation }) => {
                       ) : (
                         <View></View>
                       )}
-
                       <Card.Title
                         title={
                           el?.candidate?.firstname +
